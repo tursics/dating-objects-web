@@ -8,9 +8,46 @@ The first goal is creating a web version of the app.
 
 ## Usefull links
 
+- live online version: https://tursics.github.io/dating-objects-web/
 - The original repo: https://github.com/museum4punkt0/Ping-APP-MIT
 - The original backend: https://github.com/museum4punkt0/Ping-Backend
 - The original meta repo: https://github.com/museum4punkt0/Ping-Die-Museumsapp
+
+# Build your own version
+
+## Prerequisites
+
+## web
+
+```bash
+npm i --legacy-peer-deps
+```
+
+## iOS
+
+```bash
+npm i --legacy-peer-deps
+cd ios && pod install
+
+react-native run-ios
+```
+
+
+## Android
+
+```bash
+npm i --legacy-peer-deps
+
+react-native run-android --variant stageDebug
+```
+
+
+---
+
+**old structure...**
+
+---
+
 
 # Name der Anwendung
 App für „Ping! Die Museumsapp“
@@ -23,41 +60,8 @@ Dieses Repository beinhaltet die App für Ping! Die Museumsapp und ist Teil des 
 # Entstehungskontext 
 Die native App auf Basis des React Native Frameworks ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt: Der humboldt’sche Raum im digitalen Raum.
 
-
-# Förderung 
-Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages.
-
-# Inhaltsverzeichnis
-1. Name der Anwendung 
-2. Kurzbeschreibung 
-3. Entstehungskontext
-4. Förderung
-5. Inhaltsverzeichnis 
-6. Technologiebeschreibung
-7. Quick Start
-8. Installation
-9. Credits
-10. Markenname
-11. Lizenz 
-
 # Technologiebeschreibung
 Zur Benutzung werden Smartphones benötigt, die entweder über ein iOS oder ein Android Betriebssystem verfügen. Die Anwendung läuft ab folgenden Betriebssystemen: Android Oreo 8.0 und iOS 10.3.3.. Nach Veröffentlichung der App im Playstore bzw. Appstore kann die Anwendung von jedem/r SmartphonebesitzerIn heruntergeladen und installiert werden. 
-
-# Quick Start
-
-**iOS**
-- npm i --legacy-peer-deps
-- cd ios && pod install
-
-For running use:
-- react-native run-ios
-
-
-**Android**
-- npm i --legacy-peer-deps
-
-For running use:
-- react-native run-android --variant stageDebug
 
 # Installation
 
