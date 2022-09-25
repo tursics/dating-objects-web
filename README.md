@@ -1,3 +1,11 @@
+# Dating Objects Web
+
+The name of the app "Ping! Die Museumsapp" is a brand of "Stiftung Humboldt Forum im Berliner Schloss" and is renamed to "Dating Objects" (the code is free to use under MIT license).
+The repository is written in JavaScript and use React Native to create an Android and an iOS app.
+But a web version is missing.
+
+The first goal is creating a web version of the app.
+
 # Name der Anwendung
 App für „Ping! Die Museumsapp“
 
