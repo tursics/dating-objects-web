@@ -6,6 +6,12 @@ But a web version is missing.
 
 The first goal is creating a web version of the app.
 
+## Usefull links
+
+- The original repo: https://github.com/museum4punkt0/Ping-APP-MIT
+- The original backend: https://github.com/museum4punkt0/Ping-Backend
+- The original meta repo: https://github.com/museum4punkt0/Ping-Die-Museumsapp
+
 # Name der Anwendung
 App für „Ping! Die Museumsapp“
 
